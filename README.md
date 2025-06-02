@@ -1,4 +1,4 @@
-# RP-Pipeline-PRoject
+# RP Pipeline Project
 A final project for reproducible research classes by Karol R. and Jan Ś.
 
 The project implements the Robust Face Classifier Algorithm with Haare Feature Selector, Cumulative Sum image processing and Weak Classifier/ The final solution is presented based on te Jupyter Notebook as well as pdf and html output.
