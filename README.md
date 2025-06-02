@@ -26,3 +26,5 @@ pip install -r requirements.txt
 ```
 
 5. If all steps were fulfilled, the code should run in local environment without any issues
+
+6. Alternatively, you can install the libraires manually and skip virtual environment setup.
