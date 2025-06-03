@@ -1,0 +1,6 @@
+Organizational work progress file
+
+1. Initial repo
+2. Work split
+3. Model Augmentation
+4. Markdown/Quarto Initialization

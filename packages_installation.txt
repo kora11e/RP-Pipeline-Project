@@ -1,0 +1,14 @@
+Instruction to install the packages necessary to run the code:
+
+1. Open console and navigate to the project folder RP-Pipeline-Project
+
+2. Create virtual Environment by running following script:
+    python -m venv myenv 
+
+3. Activate the environment
+    myenv\Scripts\activate
+
+4. Install packages based on requirements.txt file:
+    pip install -r requirements.txt
+
+5. If all steps were fulfilled, the code should run in local environment without any issues
